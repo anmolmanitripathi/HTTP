@@ -17,3 +17,5 @@ Http request headers indicate the different actions that are suppoed to take pla
 | `OPTIONS` | The `OPTIONS` method is used to describe the communication options for the target resources. | 
 | `TRACE` | The `TRACE` method performs a message loop-test along the path to the tarhet resource. |
 | `PATCH` | The `PATCH` method is used to apply partial modification to a resources. |
+
+## HTTP STATUS REQUEST
