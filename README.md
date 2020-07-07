@@ -20,5 +20,3 @@ Http request headers indicate the different actions that are suppoed to take pla
 
 ## HTTP STATUS REQUEST
 The HTTP status codes are used to refer different types of messages.
-
-i am just trying to see if the changes are done
